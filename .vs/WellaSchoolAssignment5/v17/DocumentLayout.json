@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D9D24C-F9ED-4A4D-9F33-62D8848C1A14}|..\\ListOfCustomObjects\\ListOfCustomObjects.csproj|c:\\users\\administrator\\source\\repos\\listofcustomobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067B9D8B-BE6E-4799-8211-21468AB65204}|..\\MergingTwoArrays\\MergingTwoArrays.csproj|c:\\users\\administrator\\source\\repos\\mergingtwoarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461860E5-7329-4E1C-8F4E-0A2358990596}|ReadOnly_Collections.csproj|c:\\users\\administrator\\source\\repos\\wellaschoolassignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461860E5-7329-4E1C-8F4E-0A2358990596}|ReadOnly_Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0ECA5E-7239-4E60-B0A6-EA4A079C0BC5}|..\\ConsoleApp1\\ResizingListCapacity.csproj|c:\\users\\administrator\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE06F873-71F9-476A-9BBA-37114E9130C1}|..\\SortingAndReversing\\SortingAndReversing.csproj|c:\\users\\administrator\\source\\repos\\sortingandreversing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38D48EDF-C51D-4A9A-A640-93122D24F5E9}|..\\UsingListMethods\\UsingListMethods.csproj|c:\\users\\administrator\\source\\repos\\usinglistmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950EDEFC-9703-460A-8FE5-D9FCA6752C3D}|..\\CreateManipulateArray\\CreateManipulateArray.csproj|c:\\users\\administrator\\source\\repos\\createmanipulatearray\\program7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EF0C4D-2047-45CE-B384-DFCBECC593A8}|..\\FindingMaximumValue\\FindingMaximumValue.csproj|c:\\users\\administrator\\source\\repos\\findingmaximumvalue\\program6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461860E5-7329-4E1C-8F4E-0A2358990596}|WellaSchoolAssignment5.csproj|C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461860E5-7329-4E1C-8F4E-0A2358990596}|WellaSchoolAssignment5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0ECA5E-7239-4E60-B0A6-EA4A079C0BC5}|..\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\administrator\\source\\repos\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:18:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:18:32.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\UsingListMethods\\Program.cs",
+              "RelativeDocumentMoniker": "..\\UsingListMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\UsingListMethods\\Program.cs",
+              "RelativeToolTip": "..\\UsingListMethods\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:44:12.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program7.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CreateManipulateArray\\Program7.cs",
+              "RelativeDocumentMoniker": "..\\CreateManipulateArray\\Program7.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CreateManipulateArray\\Program7.cs",
+              "RelativeToolTip": "..\\CreateManipulateArray\\Program7.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:35:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\SortingAndReversing\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SortingAndReversing\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SortingAndReversing\\Program.cs",
+              "RelativeToolTip": "..\\SortingAndReversing\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:22:58.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ListOfCustomObjects\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ListOfCustomObjects\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ListOfCustomObjects\\Program.cs",
+              "RelativeToolTip": "..\\ListOfCustomObjects\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:09:22.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\MergingTwoArrays\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MergingTwoArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\MergingTwoArrays\\Program.cs",
+              "RelativeToolTip": "..\\MergingTwoArrays\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:07:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program6.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FindingMaximumValue\\Program6.cs",
+              "RelativeDocumentMoniker": "..\\FindingMaximumValue\\Program6.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FindingMaximumValue\\Program6.cs",
+              "RelativeToolTip": "..\\FindingMaximumValue\\Program6.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:06:52.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:02:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\WellaSchoolAssignment5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABoAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:00:18.48Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

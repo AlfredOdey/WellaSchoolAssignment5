@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\bin\Debug\WellaSchoolAssignment5.exe.config
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\bin\Debug\WellaSchoolAssignment5.exe
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\bin\Debug\WellaSchoolAssignment5.pdb
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\obj\Debug\ReadOnly_Collections.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\obj\Debug\ReadOnly_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\obj\Debug\WellaSchoolAssignment5.exe
+C:\Users\Administrator\source\repos\WellaSchoolAssignment5\obj\Debug\WellaSchoolAssignment5.pdb
